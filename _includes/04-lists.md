@@ -1,4 +1,3 @@
 - chicken
 - rice
 - water
-- :heart:
